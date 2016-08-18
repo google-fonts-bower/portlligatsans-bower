@@ -1,0 +1,17 @@
+{
+    "name": "portlligatsans-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Tipo"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/portlligatsans-bower.git"
+    },
+    "description": "Port Lligat Sans font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
